@@ -1,0 +1,23 @@
+body {
+   background-color: lightblue;
+}
+
+#container {
+   background-color: lightgray;
+   border: 10px solid gray;
+}
+
+#Test {
+   text-align: left;
+   margin-left: 20px; 
+   color: gray;
+   font-family: "Lucida Console", monospace;
+   font-size: 2rem;
+}
+
+#Button {
+   float: right;
+   width: 100px;
+   border: 3px solid gray;
+   padding: 10px; 
+}
